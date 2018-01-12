@@ -1,0 +1,246 @@
+/*
+* KingComposer Admin Custom CSS File
+*/
+
+@charset "utf-8";
+
+/*Slider*/
+body .kc-element-icon .bkci-slideshow {
+    background-image: url(img/bearr-slider.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-slideshow {
+	background-image: url(img/bearr-slider.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+
+/*Section Title*/
+body .kc-element-icon .bkci-section-title {
+    background-image: url(img/title-section.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-section-title {
+	background-image: url(img/title-section.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Section Title 2*/
+body .kc-element-icon .bkci-section-title2 {
+    background-image: url(img/title-section2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-section-title2 {
+	background-image: url(img/title-section2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Quover Features*/
+body .kc-element-icon .bkci-quover {
+    background-image: url(img/bearr-quover.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-quover  {
+	background-image: url(img/bearr-quover.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Restaurant Menu*/
+body .kc-element-icon .bkci-restaurant-menu {
+    background-image: url(img/bearr-restaurant-menu.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-restaurant-menu  {
+	background-image: url(img/bearr-restaurant-menu.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Restaurant Menu Item*/
+body .kc-element-icon .bkci-restaurant-menu-item {
+    background-image: url(img/bearr-restaurant-menu-item.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-restaurant-menu-item  {
+	background-image: url(img/bearr-restaurant-menu-item.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Portfolio*/
+body .kc-element-icon .bkci-portfolio {
+    background-image: url(img/bearr-portfolio.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-portfolio  {
+	background-image: url(img/bearr-portfolio.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*clients*/
+body .kc-element-icon .bkci-clients{
+    background-image: url(img/bearr-clients.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-clients  {
+	background-image: url(img/bearr-clients.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*team*/
+body .kc-element-icon .bkci-team{
+    background-image: url(img/bearr-team.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-team  {
+	background-image: url(img/bearr-team.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*testimonials*/
+body .kc-element-icon .bkci-testimonials{
+    background-image: url(img/bearr-testimonials.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-testimonials  {
+	background-image: url(img/bearr-testimonials.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Service or feature*/
+body .kc-element-icon .bkci-service-feature{
+    background-image: url(img/bearr-service-feature.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-service-feature  {
+	background-image: url(img/bearr-service-feature.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*gallery*/
+body .kc-element-icon .bkci-gallery{
+    background-image: url(img/bearr-gallery.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-gallery  {
+	background-image: url(img/bearr-gallery.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*blogroll*/
+body .kc-element-icon .bkci-blogroll{
+    background-image: url(img/bearr-blogroll.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-blogroll  {
+    background-image: url(img/bearr-blogroll.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*gridblog*/
+body .kc-element-icon .bkci-gridblog{
+    background-image: url(img/bearr-gridblog.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-gridblog  {
+    background-image: url(img/bearr-gridblog.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*wedding*/
+body .kc-element-icon .bkci-wedding{
+    background-image: url(img/bearr-wedding.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-wedding  {
+    background-image: url(img/bearr-wedding.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
+
+/*Timeline*/
+body .kc-element-icon .bkci-timeline{
+    background-image: url(img/bearr-timeline.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 48px 48px;
+}
+
+body .kc-components ul.kc-components-list li .bkci-timeline  {
+    background-image: url(img/bearr-timeline.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 60px 60px;
+}
